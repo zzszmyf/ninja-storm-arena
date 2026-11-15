@@ -1,0 +1,16 @@
+.godot/
+.DS_Store
+*.tmp
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local-only generation cache (downloaded packs, audition takes, drafts)
+tools/cache/
+
+# Never commit API keys
+tools/.zenmux_key
+.env
+

@@ -1,0 +1,409 @@
+{
+  "note": "CC0-1.0 recordings; decode with tools/foley.py --install",
+  "packs": {
+    "impact": {
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "url": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip"
+    },
+    "interface": {
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip"
+    },
+    "scifi": {
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "url": "https://kenney.nl/media/pages/assets/sci-fi-sounds/6b296f9ecf-1677589334/kenney_sci-fi-sounds.zip"
+    }
+  },
+  "samples": {
+    "punch_light": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "punch_light_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPunch_medium_000.ogg"
+        },
+        {
+          "file": "punch_light_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPunch_medium_001.ogg"
+        }
+      ]
+    },
+    "punch_heavy": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "punch_heavy_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPunch_heavy_000.ogg"
+        },
+        {
+          "file": "punch_heavy_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPunch_heavy_001.ogg"
+        }
+      ]
+    },
+    "soft_heavy": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "soft_heavy_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactSoft_heavy_000.ogg"
+        },
+        {
+          "file": "soft_heavy_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactSoft_heavy_001.ogg"
+        }
+      ]
+    },
+    "metal_light": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "metal_light_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMetal_light_000.ogg"
+        },
+        {
+          "file": "metal_light_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMetal_light_001.ogg"
+        }
+      ]
+    },
+    "metal_medium": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "metal_medium_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMetal_medium_000.ogg"
+        },
+        {
+          "file": "metal_medium_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMetal_medium_001.ogg"
+        }
+      ]
+    },
+    "plate_heavy": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "plate_heavy_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPlate_heavy_001.ogg"
+        },
+        {
+          "file": "plate_heavy_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactPlate_heavy_000.ogg"
+        }
+      ]
+    },
+    "tin_medium": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "tin_medium_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactTin_medium_000.ogg"
+        },
+        {
+          "file": "tin_medium_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactTin_medium_001.ogg"
+        }
+      ]
+    },
+    "wood_heavy": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "wood_heavy_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactWood_heavy_000.ogg"
+        },
+        {
+          "file": "wood_heavy_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactWood_heavy_001.ogg"
+        }
+      ]
+    },
+    "bell_heavy": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "bell_heavy_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactBell_heavy_000.ogg"
+        },
+        {
+          "file": "bell_heavy_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactBell_heavy_001.ogg"
+        }
+      ]
+    },
+    "generic_light": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "generic_light_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactGeneric_light_000.ogg"
+        },
+        {
+          "file": "generic_light_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactGeneric_light_001.ogg"
+        }
+      ]
+    },
+    "rock": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "rock_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMining_000.ogg"
+        },
+        {
+          "file": "rock_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactMining_001.ogg"
+        }
+      ]
+    },
+    "step_hard": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "step_hard_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): footstep_concrete_000.ogg"
+        },
+        {
+          "file": "step_hard_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): footstep_concrete_001.ogg"
+        }
+      ]
+    },
+    "step_wood": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "step_wood_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): footstep_wood_000.ogg"
+        },
+        {
+          "file": "step_wood_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): footstep_wood_001.ogg"
+        }
+      ]
+    },
+    "glass_light": {
+      "pack": "impact",
+      "license": "CC0-1.0",
+      "title": "Kenney Impact Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "glass_light_0.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactGlass_light_001.ogg"
+        },
+        {
+          "file": "glass_light_1.wav",
+          "source": "Kenney Impact Sounds 1.0 (CC0): impactGlass_light_002.ogg"
+        }
+      ]
+    },
+    "ui_click": {
+      "pack": "interface",
+      "license": "CC0-1.0",
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "ui_click_0.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): click_001.ogg"
+        },
+        {
+          "file": "ui_click_1.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): click_002.ogg"
+        }
+      ]
+    },
+    "ui_select": {
+      "pack": "interface",
+      "license": "CC0-1.0",
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "ui_select_0.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): select_001.ogg"
+        },
+        {
+          "file": "ui_select_1.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): select_002.ogg"
+        }
+      ]
+    },
+    "ui_confirm": {
+      "pack": "interface",
+      "license": "CC0-1.0",
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "ui_confirm_0.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): confirmation_001.ogg"
+        },
+        {
+          "file": "ui_confirm_1.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): confirmation_002.ogg"
+        }
+      ]
+    },
+    "ui_scroll": {
+      "pack": "interface",
+      "license": "CC0-1.0",
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "ui_scroll_0.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): scroll_001.ogg"
+        },
+        {
+          "file": "ui_scroll_1.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): scroll_002.ogg"
+        }
+      ]
+    },
+    "ui_tick": {
+      "pack": "interface",
+      "license": "CC0-1.0",
+      "title": "Kenney Interface Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "ui_tick_0.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): tick_001.ogg"
+        },
+        {
+          "file": "ui_tick_1.wav",
+          "source": "Kenney Interface Sounds 1.0 (CC0): tick_002.ogg"
+        }
+      ]
+    },
+    "boom_low": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "boom_low_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): lowFrequency_explosion_000.ogg"
+        },
+        {
+          "file": "boom_low_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): lowFrequency_explosion_001.ogg"
+        }
+      ]
+    },
+    "crunch": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "crunch_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): explosionCrunch_000.ogg"
+        },
+        {
+          "file": "crunch_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): explosionCrunch_001.ogg"
+        }
+      ]
+    },
+    "force_field": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "force_field_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): forceField_000.ogg"
+        },
+        {
+          "file": "force_field_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): forceField_001.ogg"
+        }
+      ]
+    },
+    "metal_scifi": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "metal_scifi_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): impactMetal_000.ogg"
+        },
+        {
+          "file": "metal_scifi_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): impactMetal_001.ogg"
+        }
+      ]
+    },
+    "engine_low": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "engine_low_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): spaceEngineLow_000.ogg"
+        },
+        {
+          "file": "engine_low_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): spaceEngineLow_001.ogg"
+        }
+      ]
+    },
+    "laser_big": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "laser_big_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): laserLarge_000.ogg"
+        },
+        {
+          "file": "laser_big_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): laserLarge_001.ogg"
+        }
+      ]
+    },
+    "laser_small": {
+      "pack": "scifi",
+      "license": "CC0-1.0",
+      "title": "Kenney Sci-Fi Sounds 1.0 (CC0)",
+      "takes": [
+        {
+          "file": "laser_small_0.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): laserSmall_000.ogg"
+        },
+        {
+          "file": "laser_small_1.wav",
+          "source": "Kenney Sci-Fi Sounds 1.0 (CC0): laserSmall_001.ogg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "kaze": {
+    "display": "KAZE",
+    "portrait": "kaze/portrait.png",
+    "poses": {
+      "air": {
+        "ax": 93.0,
+        "ay": 217,
+        "file": "kaze/air.png",
+        "flash": "kaze/air_flash.png",
+        "h": 220,
+        "s": 0.5,
+        "w": 188
+      },
+      "attack": {
+        "ax": 107.0,
+        "ay": 304,
+        "file": "kaze/attack.png",
+        "flash": "kaze/attack_flash.png",
+        "h": 307,
+        "s": 0.5,
+        "w": 220
+      },
+      "block": {
+        "ax": 105.0,
+        "ay": 304,
+        "file": "kaze/block.png",
+        "flash": "kaze/block_flash.png",
+        "h": 305,
+        "s": 0.5,
+        "w": 188
+      },
+      "hurt": {
+        "ax": 121.0,
+        "ay": 305,
+        "file": "kaze/hurt.png",
+        "flash": "kaze/hurt_flash.png",
+        "h": 308,
+        "s": 0.5,
+        "w": 186
+      },
+      "idle": {
+        "ax": 71.0,
+        "ay": 303,
+        "file": "kaze/idle.png",
+        "flash": "kaze/idle_flash.png",
+        "h": 305,
+        "s": 0.5,
+        "w": 141
+      },
+      "kick": {
+        "ax": 84.0,
+        "ay": 303,
+        "file": "kaze/kick.png",
+        "flash": "kaze/kick_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 224
+      },
+      "ko": {
+        "ax": 150.0,
+        "ay": 157,
+        "file": "kaze/ko.png",
+        "flash": "kaze/ko_flash.png",
+        "h": 160,
+        "s": 0.5,
+        "w": 303
+      },
+      "proj": {
+        "ax": 94.0,
+        "ay": 303,
+        "file": "kaze/proj.png",
+        "flash": "kaze/proj_flash.png",
+        "h": 305,
+        "s": 0.5,
+        "w": 200
+      },
+      "run": {
+        "ax": 128.0,
+        "ay": 304,
+        "file": "kaze/run.png",
+        "flash": "kaze/run_flash.png",
+        "h": 307,
+        "s": 0.5,
+        "w": 231
+      }
+    }
+  },
+  "sora": {
+    "display": "SORA",
+    "portrait": "sora/portrait.png",
+    "poses": {
+      "air": {
+        "ax": 97.0,
+        "ay": 227,
+        "file": "sora/air.png",
+        "flash": "sora/air_flash.png",
+        "h": 230,
+        "s": 0.5,
+        "w": 186
+      },
+      "attack": {
+        "ax": 109.0,
+        "ay": 303,
+        "file": "sora/attack.png",
+        "flash": "sora/attack_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 230
+      },
+      "block": {
+        "ax": 101.0,
+        "ay": 304,
+        "file": "sora/block.png",
+        "flash": "sora/block_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 192
+      },
+      "hurt": {
+        "ax": 104.0,
+        "ay": 303,
+        "file": "sora/hurt.png",
+        "flash": "sora/hurt_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 178
+      },
+      "idle": {
+        "ax": 82.0,
+        "ay": 304,
+        "file": "sora/idle.png",
+        "flash": "sora/idle_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 163
+      },
+      "kick": {
+        "ax": 79.0,
+        "ay": 304,
+        "file": "sora/kick.png",
+        "flash": "sora/kick_flash.png",
+        "h": 307,
+        "s": 0.5,
+        "w": 216
+      },
+      "ko": {
+        "ax": 154.0,
+        "ay": 155,
+        "file": "sora/ko.png",
+        "flash": "sora/ko_flash.png",
+        "h": 158,
+        "s": 0.5,
+        "w": 301
+      },
+      "proj": {
+        "ax": 104.0,
+        "ay": 303,
+        "file": "sora/proj.png",
+        "flash": "sora/proj_flash.png",
+        "h": 306,
+        "s": 0.5,
+        "w": 217
+      },
+      "run": {
+        "ax": 131.0,
+        "ay": 304,
+        "file": "sora/run.png",
+        "flash": "sora/run_flash.png",
+        "h": 307,
+        "s": 0.5,
+        "w": 223
+      }
+    }
+  }
+}
